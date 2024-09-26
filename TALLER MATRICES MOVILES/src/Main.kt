@@ -1,0 +1,23 @@
+fun main() {
+    //ejercicio_1()
+    //ejercicio_2(4)
+    //ejercicio_3(A, B)
+    //ejercicio_4()
+    //ejercicio_5()
+    //ejercicio_6()
+    //ejercicio_7()
+    //ejercicio_8()
+    //ejercicio_9()
+    //ejercicio_10()
+    //ejercicio_11()
+    //ejercicio_12()
+    //ejercicio_13(5)
+    //ejercicio_14()
+    //ejercicio_15(5)
+    //ejercicio_16()
+    //ejercicio_17()
+    //ejercicio_18()
+    //ejercicio_19()
+    //xejercicio_20()
+}
+
